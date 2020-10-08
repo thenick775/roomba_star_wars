@@ -1,3 +1,6 @@
+# Built upon:
+# https://gist.github.com/thenoviceoof/5465084
+
 import serial
 import time
 
